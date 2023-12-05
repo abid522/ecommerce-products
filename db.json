@@ -3,14 +3,14 @@
     {
       "id": 1,
       "title": "Chair",
-      "imgUrl": "https://www.pexels.com/photo/brown-and-white-wooden-lounger-106839/",
+      "imgUrl": "https://images.pexels.com/photos/106839/pexels-photo-106839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "description": "A very nice and comfortable ergonomic chair",
       "price": 2000
     },
     {
       "id": 2,
       "title": "Table",
-      "imgUrl": "https://www.pexels.com/photo/apartment-architecture-books-bookshelf-276651/",
+      "imgUrl": "https://images.pexels.com/photos/276651/pexels-photo-276651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "description": "A table made of deodar wood which will last long",
       "price": 5000
     }
