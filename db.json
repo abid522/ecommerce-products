@@ -4,21 +4,22 @@
       "id": 1,
       "title": "Chair",
       "imgUrl": "https://images.pexels.com/photos/106839/pexels-photo-106839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "description": "A very nice and comfortable ergonomic chair",
+      "description": "
+Luxurious in form, engineered for comfort, and crafted with precision, Stylux SmartGRID Office Chair is a modern classic that’s made for you.",
       "price": 2000
     },
     {
       "id": 2,
       "title": "Table",
       "imgUrl": "https://images.pexels.com/photos/276651/pexels-photo-276651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "description": "A table made of deodar wood which will last long",
+      "description": "Multi-purpose table Not only work as a laptop table but also as a TV Dinner Tray, serving table for patients, Standing Desk for office workers etc",
       "price": 5000
     },
     {
       "id": 3,
       "title": "Water Bottle",
       "imgUrl": "https://images.pexels.com/photos/1342529/pexels-photo-1342529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-      "description": "A insulated bottle that will keep your water temperature intact",
+      "description": "The Pexpo Electro range of tri-ply vacuum insulated bottles are made in India three layers of BIS metals  & vacuum insulation between them.",
       "price": 350
     }
   ]
