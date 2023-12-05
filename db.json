@@ -13,6 +13,13 @@
       "imgUrl": "https://images.pexels.com/photos/276651/pexels-photo-276651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "description": "A table made of deodar wood which will last long",
       "price": 5000
+    },
+    {
+      "id": 3,
+      "title": "Water Bottle",
+      "imgUrl": "https://images.pexels.com/photos/1342529/pexels-photo-1342529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "A insulated bottle that will keep your water temperature intact",
+      "price": 350
     }
   ]
 }
