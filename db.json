@@ -5,21 +5,42 @@
       "title": "Chair",
       "imgUrl": "https://images.pexels.com/photos/106839/pexels-photo-106839.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "description": "Luxurious in form, engineered for comfort, and crafted with precision, Stylux SmartGRID Office Chair is a modern classic that’s made for you.",
-      "price": 2000
+      "price": 2199
     },
     {
       "id": 2,
       "title": "Table",
       "imgUrl": "https://images.pexels.com/photos/276651/pexels-photo-276651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "description": "Multi-purpose table Not only work as a laptop table but also as a TV Dinner Tray, serving table for patients, Standing Desk for office workers etc",
-      "price": 5000
+      "price": 5399
     },
     {
       "id": 3,
       "title": "Water Bottle",
       "imgUrl": "https://images.pexels.com/photos/1342529/pexels-photo-1342529.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       "description": "The Pexpo Electro range of tri-ply vacuum insulated bottles are made in India three layers of BIS metals  & vacuum insulation between them.",
-      "price": 350
+      "price": 349
+    },
+    {
+      "id": 4,
+      "title": "Shoes",
+      "imgUrl": "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "A pair of canvas shoes suitable for multiple occasions like party, marriage or some school functions. Its comfortable ans stylish",
+      "price": 899
+    },
+    {
+      "id": 5,
+      "title": "Smart Watch",
+      "imgUrl": "https://images.pexels.com/photos/1334602/pexels-photo-1334602.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "The excellent Fire-Boltt Legacy smartwatch can improve your smartwatch experience since it is filled with wonderful features that simplify life for you",
+      "price": 1899
+    },
+    {
+      "id": 6,
+      "title": "Sunglass",
+      "imgUrl": "https://images.pexels.com/photos/46710/pexels-photo-46710.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "A stylish sunglass that will protect you from bright sunlight giving you a cool look at the same time. Wear at your next outing.",
+      "price": 849
     }
   ]
 }
